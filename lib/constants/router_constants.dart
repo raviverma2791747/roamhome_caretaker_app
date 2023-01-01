@@ -1,0 +1,13 @@
+const String splashRoute = "/splash";
+const String languageRoute = "/language";
+const String homeRoute = "/home";
+const String otpRoute = "/otp";
+const String loginRoute = "/login";
+const String detailRoute  = "/detail";
+const String aboutRoute = "/about";
+const String historyRoute = "/history";
+const String historyDetailRoute = "/history_detail";
+const String profileRoute = "/profile";
+const String notificationRoute = "/notification";
+const String helpRoute = "/help";
+const String instructionRoute = "/instructions";
